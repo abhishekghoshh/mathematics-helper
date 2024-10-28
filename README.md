@@ -2,7 +2,7 @@
 
 ## pdf
 - **Aptitude**
-  - [How to Prepare for Quantitive Aptitude - Arun Sharma]()
+  - [How to Prepare for Quantitive Aptitude - Arun Sharma](./pdf/aptitude/How%20to%20Prepare%20for%20Quantitative%20Aptitude%20-%20Arun%20Sharma%20-%206th%20Edition.pdf)
   - [Quantitive Aptitude - Dr. R.S. Agarwal]()
 - **Engineering Mathematics**
   - [Higher Engineering Mathematics - BS Gerwal]()
